@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\bin\Debug\netcoreapp3.1\CarChallenge.exe
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\bin\Debug\netcoreapp3.1\CarChallenge.deps.json
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\bin\Debug\netcoreapp3.1\CarChallenge.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\bin\Debug\netcoreapp3.1\CarChallenge.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\bin\Debug\netcoreapp3.1\CarChallenge.dll
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\bin\Debug\netcoreapp3.1\CarChallenge.pdb
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\obj\Debug\netcoreapp3.1\CarChallenge.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\obj\Debug\netcoreapp3.1\CarChallenge.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\obj\Debug\netcoreapp3.1\CarChallenge.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\obj\Debug\netcoreapp3.1\CarChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\obj\Debug\netcoreapp3.1\CarChallenge.dll
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\obj\Debug\netcoreapp3.1\CarChallenge.pdb
+C:\Users\Roland Strod\source\repos\CarChallenge\CarChallenge\obj\Debug\netcoreapp3.1\CarChallenge.genruntimeconfig.cache
